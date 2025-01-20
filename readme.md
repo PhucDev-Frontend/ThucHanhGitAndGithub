@@ -1,1 +1,1 @@
-File hướng dẫn
+Đây là file hướng dẫn sự dụng phần mềm
